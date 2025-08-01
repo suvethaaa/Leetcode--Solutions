@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [2649-count-total-number-of-colored-cells](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 <!---LeetCode Topics End-->

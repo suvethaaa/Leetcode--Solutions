@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0043-multiply-strings) |
 | [2649-count-total-number-of-colored-cells](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 ## Hash Table
 |  |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0037-sudoku-solver) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->

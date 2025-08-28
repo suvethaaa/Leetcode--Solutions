@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0118-pascals-triangle) |
 ## Two Pointers
@@ -29,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2649-count-total-number-of-colored-cells](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2649-count-total-number-of-colored-cells) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

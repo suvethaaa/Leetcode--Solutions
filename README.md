@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0118-pascals-triangle) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0067-add-binary) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0044-wildcard-matching) |
+## Prefix Sum
+|  |
+| ------- |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->

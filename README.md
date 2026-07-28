@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0037-sudoku-solver) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Backtracking
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0415-add-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2351-first-letter-to-appear-twice](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Simulation
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0067-add-binary) |
+| [2351-first-letter-to-appear-twice](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
 | ------- |
@@ -100,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 <!---LeetCode Topics End-->

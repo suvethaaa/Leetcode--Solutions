@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0238-product-of-array-except-self) |
@@ -120,10 +121,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0056-merge-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0905-sort-array-by-parity) |
 ## Sliding Window
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0594-longest-harmonious-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

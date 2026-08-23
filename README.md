@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0905-sort-array-by-parity) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0905-sort-array-by-parity) |
 ## Sliding Window
@@ -133,4 +137,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0056-merge-intervals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

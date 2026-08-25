@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0905-sort-array-by-parity) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0055-jump-game) |
+| [0561-array-partition](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0561-array-partition) |
 ## Recursion
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0905-sort-array-by-parity) |
 ## Sliding Window
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->

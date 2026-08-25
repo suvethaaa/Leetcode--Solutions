@@ -1,34 +1,24 @@
 class Solution {
     public int dominantIndex(int[] nums) {
-        int n = nums.length;
-        HashMap<Integer,Integer> map = new HashMap<>();
-        int i = 0;
-        for(int num : nums){
-            map.put(num,i);
-            i++;
+        int max = Integer.MIN_VALUE;
+        int secMax = Integer.MIN_VALUE;
+        int idx = 0;
+
+        for(int i = 0 ; i < nums.length ; i++){
+            if(nums[i] > max){
+                secMax = max;
+                max = nums[i];
+                idx = i;
+            }else if(nums[i] > secMax){
+                secMax = nums[i];
+            }
         }
-        System.out.println(map);
-        
-        insertionSort(nums);
-        System.out.println(Arrays.toString(nums));
-        if(nums[n-1] >= nums[n-2]*2){
-            return map.get(nums[n-1]);
+        System.out.println(max + " " + secMax);
+        if(max >= secMax*2){
+            return idx;
         }
         return -1;
     }
 
-    static void insertionSort(int[] arr){
-
-        for(int i = 0 ; i < arr.length-1 ; i++){
-            for(int j = i +1 ; j > 0 ; j--){
-                if(arr[j] < arr[j-1]){
-                    int temp = arr[j];
-                    arr[j] = arr[j-1];
-                    arr[j-1] = temp;
-                }else{
-                    break;
-                }
-            }
-        }
-    }
+    
 }

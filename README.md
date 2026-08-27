@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0414-third-maximum-number) |

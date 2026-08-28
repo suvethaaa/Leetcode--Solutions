@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0064-minimum-path-sum) |
 ## String
 |  |
 | ------- |

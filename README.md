@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1051-height-checker) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1051-height-checker) |
 ## Sliding Window
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1051-height-checker) |
 ## Number Theory
 |  |
 | ------- |
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0888-fair-candy-swap](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0888-fair-candy-swap) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->

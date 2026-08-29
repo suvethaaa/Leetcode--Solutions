@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0064-minimum-path-sum) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0051-n-queens) |
 ## Matrix
 |  |
 | ------- |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0164-maximum-gap) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

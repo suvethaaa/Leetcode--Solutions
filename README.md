@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0052-n-queens-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -226,4 +227,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->

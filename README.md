@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1122-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1331-rank-transform-of-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Backtracking
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sliding Window
 |  |

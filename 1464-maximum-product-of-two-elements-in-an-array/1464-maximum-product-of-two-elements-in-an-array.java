@@ -1,7 +1,20 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        Arrays.sort(nums);
-        int n = nums.length;
-        return((nums[n-1]-1)*(nums[n-2]-1));
+    
+        int firstMax = Integer.MIN_VALUE;
+        int secondMax = Integer.MIN_VALUE;
+
+        for(int num : nums){
+            if(num > firstMax){
+                secondMax = firstMax;
+                firstMax = num;   
+            }
+            else if(num > secondMax && num <= firstMax){
+                secondMax = num;
+            }
+        }
+        System.out.println(firstMax);
+        System.out.println(secondMax);
+        return (firstMax-1) *  (secondMax-1);
     }
 }

@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Sliding Window
 |  |
 | ------- |

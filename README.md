@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0079-word-search) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## String
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0079-word-search) |
 | [0415-add-strings](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -276,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1122-relative-sort-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

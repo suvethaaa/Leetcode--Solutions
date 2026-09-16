@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0164-maximum-gap) |
 | [0219-contains-duplicate-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0228-summary-ranges) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0139-word-break) |
 | [0219-contains-duplicate-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0139-word-break) |
 | [0415-add-strings](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -284,4 +288,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0079-word-search) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

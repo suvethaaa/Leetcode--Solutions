@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |

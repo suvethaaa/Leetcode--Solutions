@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0415-add-strings) |
+| [1603-design-parking-system](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1603-design-parking-system) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bit Manipulation
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1603-design-parking-system](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1603-design-parking-system) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0463-island-perimeter) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->

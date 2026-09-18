@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0139-word-break) |
 | [0415-add-strings](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0561-array-partition) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |

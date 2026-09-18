@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1603-design-parking-system](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1603-design-parking-system) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |

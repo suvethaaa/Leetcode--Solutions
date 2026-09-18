@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2649-count-total-number-of-colored-cells](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3830-find-closest-person](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/3830-find-closest-person) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1603-design-parking-system](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |

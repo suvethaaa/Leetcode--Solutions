@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |

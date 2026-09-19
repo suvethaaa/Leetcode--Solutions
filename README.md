@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Quicksort
 |  |
 | ------- |

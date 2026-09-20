@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2351-first-letter-to-appear-twice](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3498-reverse-degree-of-a-string](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0415-add-strings) |
 | [1603-design-parking-system](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1603-design-parking-system) |
+| [3498-reverse-degree-of-a-string](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bit Manipulation
 |  |

@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0905-sort-array-by-parity) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1122-relative-sort-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0976-largest-perimeter-triangle](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2649-count-total-number-of-colored-cells](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0561-array-partition) |
+| [0976-largest-perimeter-triangle](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Recursion
 |  |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1122-relative-sort-array) |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1122-relative-sort-array) |
 ## Divide and Conquer
 |  |
@@ -389,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1603-design-parking-system) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->

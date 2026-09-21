@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1030-matrix-cells-in-distance-order](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1030-matrix-cells-in-distance-order](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2649-count-total-number-of-colored-cells](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0463-island-perimeter) |
+| [1030-matrix-cells-in-distance-order](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## String
 |  |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1030-matrix-cells-in-distance-order](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -398,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/0976-largest-perimeter-triangle) |
+## Geometry
+|  |
+| ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/suvethaaa/Leetcode--Solutions/tree/master/1030-matrix-cells-in-distance-order) |
 <!---LeetCode Topics End-->
